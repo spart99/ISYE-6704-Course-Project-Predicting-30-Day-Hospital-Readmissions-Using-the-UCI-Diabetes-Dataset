@@ -1,7 +1,7 @@
 # ISYE-6704-Course-Project-Predicting-30-Day-Hospital-Readmissions-Using-the-UCI-Diabetes-Dataset
 # Predicting 30-Day Hospital Readmissions (Diabetes Patients)
 
-## 📌 Overview
+## Overview
 
 Hospital readmissions within 30 days are a major cost and quality concern in healthcare.
 This project analyzes patient-level hospital data to identify key factors associated with readmission risk and evaluate predictive modeling approaches.
@@ -10,7 +10,7 @@ The goal is **not just prediction**, but understanding *why* patients are readmi
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * Source: UCI Machine Learning Repository
 * Dataset: *Diabetes 130-US Hospitals (1999–2008)*
@@ -22,11 +22,11 @@ The goal is **not just prediction**, but understanding *why* patients are readmi
   * Diagnoses and comorbidities
   * Admission and discharge details
 
-⚠️ Challenge: Only ~9% of cases are readmissions → **high class imbalance**
+Challenge: Only ~9% of cases are readmissions → **high class imbalance**
 
 ---
 
-## 🧠 Approach
+## Approach
 
 ### 1. Data Preparation
 
@@ -53,7 +53,7 @@ The goal is **not just prediction**, but understanding *why* patients are readmi
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 Due to class imbalance, accuracy is misleading.
 Models were evaluated using:
@@ -79,7 +79,7 @@ Models were evaluated using:
 
 ---
 
-## 🔍 Key Drivers of Readmission
+## Key Drivers of Readmission
 
 Consistent across models:
 
@@ -91,12 +91,12 @@ Consistent across models:
 
 ---
 
-## 💡 Lessons Learned
+## Lessons Learned
 
 This project highlighted important real-world ML challenges:
 
 * **Class imbalance can dominate model behavior**
-* High accuracy does NOT mean good performance
+* High accuracy does not mean good performance
 * Real healthcare data is noisy and difficult to model
 * Simpler, interpretable models can be just as effective as complex ones
 
@@ -111,7 +111,7 @@ This project highlighted important real-world ML challenges:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python (pandas, NumPy)
 * scikit-learn
