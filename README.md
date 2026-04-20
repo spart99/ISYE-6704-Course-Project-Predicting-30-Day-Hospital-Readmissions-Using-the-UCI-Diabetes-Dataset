@@ -64,7 +64,7 @@ Models were evaluated using:
 
 ---
 
-## 📉 Results
+## Results
 
 | Model               | AUC   | F1 Score | Key Insight                      |
 | ------------------- | ----- | -------- | -------------------------------- |
