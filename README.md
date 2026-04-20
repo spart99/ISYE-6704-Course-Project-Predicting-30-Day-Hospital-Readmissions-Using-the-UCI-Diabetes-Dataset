@@ -120,18 +120,12 @@ This project highlighted important real-world ML challenges:
 
 ---
 
-## 📎 Repository Structure
+## Repository Structure
 
 ```
-├── data/               # dataset (or link if large)
+├── data/              
 ├── notebooks/          # analysis & modeling
-├── src/                # reusable code (optional)
-├── report/             # full project write-up
 └── README.md
 ```
 
----
 
-## 📬 Contact
-
-Feel free to reach out or connect if you'd like to discuss this project or similar work.
