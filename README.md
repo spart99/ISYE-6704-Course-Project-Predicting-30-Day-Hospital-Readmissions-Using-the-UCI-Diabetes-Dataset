@@ -1,0 +1,2 @@
+# ISYE-6704-Course-Project-Predicting-30-Day-Hospital-Readmissions-Using-the-UCI-Diabetes-Dataset
+Hospital readmissions within 30 days are a major cost and quality concern in healthcare. This project analyzes patient-level hospital data to identify key factors associated with readmission risk and evaluate predictive modeling approaches.  The goal is not just prediction, but understanding why patients are readmitted.
