@@ -102,7 +102,7 @@ This project highlighted important real-world ML challenges:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Try resampling techniques (SMOTE, undersampling)
 * Explore gradient boosting (XGBoost, LightGBM)
