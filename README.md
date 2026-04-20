@@ -123,8 +123,8 @@ This project highlighted important real-world ML challenges:
 ## Repository Structure
 
 ```
-├── data/              
-├── notebooks/          # analysis & modeling
+├── notebooks/ # analysis & modeling
+├── report/ # full project write-up
 └── README.md
 ```
 
